@@ -1,0 +1,42 @@
+Programming Project Documentation
+By Bimarsha Khanal 33801247
+
+The project is a game, Space Shooter, where you control the spaceship protecting the earth and fire shots at asteroids falling from the sky. The asteroids initially come at slow speeds at first, but it gets faster and faster making it more difficult to protect earth. The player has 5 lives in total, shown in top left of the game, each asteroid takes 1 life away. There are different kinds of asteroids, normal ones, asteroids that spawn smaller asteroid when destroyed and boss asteroid. 
+The boss asteroid has more health than the normal asteroid and will take off 4 lives, the boss asteroid will have a red colour and will appear bigger than the rest of the asteroid. The smaller asteroids spawn randomly, in 2s or 3s, and they can go anywhere in random, they will fall fast and cause damage to your health. There are chances of getting a shield power up when a asteroid is destroyed, this shield will protect you from asteroids when it hits the ground and your health will remain the same, but it does not protect you from the boss asteroid. 
+When a asteroid hits the ground, within the 1 seconds, no  other asteroid passing through the ground will do any damage.
+The spaceship can fire 3 shots at a time, you can move side to side to be able to fire. In the menu, the user will be able to have a look at the controls and which button to use and they will be able to turn off the music. While in game, you will be able to pause the game and un-pause it, you can also return to the main menu while pausing.
+
+The input system that’s needed to use this game is a keyboard and mouse. When in the menu, you can use the mouse to go to different options or use Enter to play the game, H for Help, S for settings and A for about. While in game, you use your A to move left and D to move right, to fire it is Space. To pause, its P and to un-pause its P as well. To get the shield power up, you will need to move and catch it while its falling from the destroyed asteroid and it will automatically use it, when using it, there will a blue circle surround the spaceship.
+
+
+Video Demo:
+https://youtu.be/hJ5OqhgCEyw 
+
+
+
+References:
+
+1- Keyboard input : https://www.youtube.com/watch?v=MA_aFQV9vss&ab_channel=BarneyCodes
+2- Spaceship image: https://www.clipartmax.com/download/m2i8A0N4K9m2K9G6_new-space-ship-clipart-spaceship-fighter-ipod1-opengameart-space-shooter-ship-png/#
+
+3- Grass Texture: https://www.freepik.com/free-photos-vectors/cartoon-grass-texture
+
+4- Explosion Pack: https://ansimuz.itch.io/explosion-animations-pack
+
+5- Sound: https://mixkit.co/free-sound-effects/explosion/
+
+6- Ideas and inspirations:  
+https://editor.p5js.org/carrefinho/sketches/Sk7ZvoMn7
+https://editor.p5js.org/IreneLi/sketches/EqrrvxlLd
+https://editor.p5js.org/SumanSantosh/sketches/an_8mDdi3
+https://editor.p5js.org/hirofumimatsuzaki/sketches/R4mACmcf2
+https://editor.p5js.org/hariprasath.yadav2007/sketches/PLPJSCzgX
+https://editor.p5js.org/hariprasath.yadav2007/sketches/AHYtC0xP-
+https://editor.p5js.org/ConnectedCat/sketches/LUwUYxtu0
+
+7- Space Invaders Playlist: https://youtube.com/playlist?list=PLBDInqUM5B25FzygoJ9Ifg1TZXmIHz4zh&si=feJ5XJGQw-7-85yx
+8- More Ideas and Designing ideas: https://youtube.com/playlist?list=PLBDInqUM5B26FjwMMZqGDxqQr1kX5V9Ul&si=MeEpMt319j2E1uvF
+https://www.youtube.com/watch?v=FHXDywq69v4&list=LL&index=3&t=83s&ab_channel=byteCode
+
+9- Help with Mouse Input: https://www.youtube.com/watch?v=TaN5At5RWH8&ab_channel=TheCodingTrain 
+
